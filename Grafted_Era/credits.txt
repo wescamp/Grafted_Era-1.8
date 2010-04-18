@@ -1,0 +1,148 @@
+contributors to the same area are listed roughly in the order of magnitude of their contributions. This is subjective, and sometimes decided at random.
+
+--------------------
+--------------------
+Era
+--------------------
+--------------------
+
+	Maintaince : 
+	--------------------
+	     mystic X the unknown
+	Coding :
+	--------------------
+	     mystic X the unknown
+	     krotop
+	Translation
+	--------------------
+	Polish
+	-------
+	     SteppenWolf
+	French
+	-------
+	     isril
+	Chinese
+	-------
+	     jzmer
+	German
+	-------
+	     Gorthaur
+	Russian
+	-------
+	     GreenFlame
+--------------------
+--------------------
+Darklands 
+--------------------
+--------------------
+	Design
+	--------------------
+	     Casual User
+	Maintaince : 
+	--------------------
+	     Casual User (inactive)
+	Graphics :
+	--------------------
+	     Casual User
+	     mystic X the unknown
+	Additional design, ideas
+	--------------------
+ 	     TL
+	Coding :
+	--------------------
+	     Casual User
+	     krotop
+
+
+--------------------
+--------------------
+Steppe
+--------------------
+--------------------
+
+	Design
+	--------------------
+	     Zhukov
+	Maintainer : 
+	--------------------
+	     Zhukov (inactive)
+	Writing : 
+	--------------------
+	     Zhukov
+	Graphics :
+	--------------------
+	     Zhukov
+	Playtest and balance :
+	--------------------
+	     Doc Paterson
+	     Casual User
+	Additional design, ideas
+	--------------------
+	     Zookeeper
+	     Temuchin Khan
+	     BeRzErKeR
+	Other
+	--------------------
+	     Zookeeper
+	     Noyga
+	     ozymandias
+
+	
+--------------------
+--------------------
+Nightmares of Meloen
+--------------------
+--------------------
+
+	Design
+	--------------------
+	     krotop
+	Maintainers : 
+	--------------------
+	     FreeAsABeer
+	     krotop
+	Writing : 
+	--------------------
+	     Mist
+	     krotop
+	Graphics : 
+	--------------------
+	     mystic X the unknown  (all current sprites)
+	     Niborelf  (original sprites)
+	Playtest and balance :
+	--------------------
+	     krotop
+	     FreeAsABeer
+	     Velensk
+	Coding :
+	--------------------
+	     Mist  (banding, arcane focus)
+	     krotop  (banding upkeep, terrain link, jinx
+	     FreeAsABeer  (code rewrites, default only random faction)
+	Other :
+	--------------------
+	     Mist
+
+
+--------------------
+--------------------
+Halflings
+--------------------
+--------------------
+
+	Design :
+	--------------------
+	     Velensk
+	     mystic X the unknown
+
+	Balancing:
+	------------
+	     Velensk
+
+	WML-pushing
+	------------
+	     mystic X the unknown
+
+	Graphics
+	------------
+	     mystic X the unknown

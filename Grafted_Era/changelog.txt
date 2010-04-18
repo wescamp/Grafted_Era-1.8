@@ -1,0 +1,41 @@
+version 0.2.1
+	-bugxif release
+	-more strings are being translated
+version 0.2.0
+	-added the Halfling faction
+
+	-player-selected factions receive random leader by default
+	-translations for leader-warning and in-game help: Polish, French, German, Chinese, Russian
+	-sprite updates: Overseer line, Dark rider line, Archer line, Wolf line
+	-new attack icons
+	-minor fixes and code optimizations
+	-increased the Overseer line movement to 5 and disabled the quick trait
+	-darklands: some new descriptions
+	
+	-numerous changes to Nightmares faction: (from versions 0.23 through 0.25)
+		  -Nightmares race: resistances: 0% fire, -10% arcane
+		  -Creepers: neutral alignment, att. 4-2,cost 6, 14 HP, banding works on both attack and defense
+		  -egg line: 50% defense on villages, cost 14, Angry one att. 6-4, Raging one att. 9-4
+		  -Scornful watcher: cost 15, pierce and impact resist 0%
+		  -Life thief line: damage type arcane, Life thief 30 HP,Soul snatcher 43 HP, Death spectre 57 HP
+		  -Howling darkness line: Hownling darkness 20 HP, Cloud of Gloom 28 HP, Eternal Night 39 HP
+		  -Black cat line: jinx attack becomes magical, doesn't affect not-living and doesn't lower defense below 10% 
+		   		   Black cat ranged att. 2-2, Jinx beast ranged att. 3-3, Calamity ranged att. 5-4
+		  -Elemental Tornado form: movement: cave, fungus, reef: 3, deep water: 2
+
+		  -updates to sounds and animations
+		  -sprite updates: Black cat, Calamity, Scornful watcher line, Unstable elementals
+		  -new attack icons
+		  -various other improvements (see Nightmares of Meloen faction thread)
+version 0.1.1
+	-fixed 4-move leaders not getting quick trait
+	-Savage attacks 6-5->5-5
+	-sprite updates
+	-new sprites: Wolf, Dread Wolf
+version 0.1.0
+	-Wolf hitpoints 14->20
+	-removed Marksman from Wolf melee attacks
+	-renamed units Dark Noble to Overseer, Dark Lord to Overlord, Dire Wolf to Dread Wolf
+	-renamed attack special Dread to Dauntless charge
+	-sprite updates
+	-new sprites: Dark Rider
