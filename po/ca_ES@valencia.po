@@ -1,0 +1,1908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 13:15+0200\n"
+"PO-Revision-Date: 2010-10-03 13:15+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca_ES@valencia\n"
+
+#. [chance_to_hit]: id=Graft_demonic
+#: Grafted_Era/abilities/abilities_darklands.cfg:6
+msgid "demonic"
+msgstr ""
+
+#. [chance_to_hit]: id=Graft_demonic
+#: Grafted_Era/abilities/abilities_darklands.cfg:9
+msgid ""
+"Demonic:\n"
+"This attack is tied with the underworld forces, receiving 50% chance to hit "
+"regardless of the defensive ability of the unit being attacked.\n"
+msgstr ""
+
+#. [damage]: id=fearsome
+#: Grafted_Era/abilities/abilities_darklands.cfg:22
+#: Grafted_Era/abilities/abilities_darklands.cfg:23
+#: Grafted_Era/abilities/abilities_darklands.cfg:51
+#: Grafted_Era/abilities/abilities_darklands.cfg:52
+#: Grafted_Era/abilities/abilities_darklands.cfg:88
+#: Grafted_Era/abilities/abilities_darklands.cfg:89
+msgid "fearsome"
+msgstr ""
+
+#. [damage]: id=fearsome
+#: Grafted_Era/abilities/abilities_darklands.cfg:26
+#: Grafted_Era/abilities/abilities_darklands.cfg:29
+#: Grafted_Era/abilities/abilities_darklands.cfg:55
+#: Grafted_Era/abilities/abilities_darklands.cfg:58
+#: Grafted_Era/abilities/abilities_darklands.cfg:92
+#: Grafted_Era/abilities/abilities_darklands.cfg:95
+msgid ""
+"\n"
+"Fearsome:\n"
+"The fear aura of the unit makes enemy units of equal or lower level it "
+"engages with in melee deal 10% less damage and further 15% less damage times "
+"the difference in their levels."
+msgstr ""
+
+#. [damage]: id=Cond_dread
+#: Grafted_Era/abilities/abilities_steppe.cfg:6
+#: Grafted_Era/abilities/abilities_steppe.cfg:7
+msgid "dauntless charge"
+msgstr ""
+
+#. [damage]: id=Cond_dread
+#: Grafted_Era/abilities/abilities_steppe.cfg:9
+#: Grafted_Era/abilities/abilities_steppe.cfg:11
+msgid ""
+"Dauntless charge:\n"
+"When a unit uses this attack offensively, it takes one third less damage in "
+"retaliation."
+msgstr ""
+
+#. [damage]: id=Cond_defend_only
+#: Grafted_Era/abilities/abilities_steppe.cfg:21
+msgid "defend only"
+msgstr ""
+
+#. [damage]: id=Cond_defend_only
+#: Grafted_Era/abilities/abilities_steppe.cfg:23
+msgid ""
+"Defend only:\n"
+"This weapon is only usable for defense."
+msgstr ""
+
+#. [advancement]: id=amla_steppe
+#: Grafted_Era/abilities/abilities_steppe.cfg:34
+msgid "Max HP bonus +4, Max XP +20%"
+msgstr ""
+
+#. [skirmisher]: id=half_distract
+#: Grafted_Era/abilities/distract.cfg:6
+msgid "distract"
+msgstr ""
+
+#. [skirmisher]: id=half_distract
+#: Grafted_Era/abilities/distract.cfg:8
+msgid ""
+"Distract:\n"
+"This unit negates enemy Zones of Control around itself for allied units (but "
+"not for itself)."
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_random_faction, type=_rand_all
+#. [multiplayer_side]: id=Graft_random_faction_g, type=_rand_all_g
+#: Grafted_Era/factions/_fake/_rand_all.cfg:4
+#: Grafted_Era/factions/_fake/_rand_all_g.cfg:4
+msgid "Random"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_random_default_faction, type=_rand_def
+#. [multiplayer_side]: id=Graft_random_default_faction_g, type=_rand_def_g
+#: Grafted_Era/factions/_fake/_rand_def.cfg:4
+#: Grafted_Era/factions/_fake/_rand_def_g.cfg:4
+msgid "Random Default"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_random_extra_faction_g, type=_rand_ext_g
+#. [multiplayer_side]: id=Graft_random_extra_faction, type=_rand_ext
+#: Grafted_Era/factions/_fake/_rand_ext_g.cfg:4
+#: Grafted_Era/factions/_fake/_rand_ext.cfg:4
+msgid "Random not Default"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_Darklands, type=_rand_darklands
+#: Grafted_Era/factions/darklands.cfg:4
+msgid "Darklands"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_halflings, type=_rand_halflings
+#: Grafted_Era/factions/halflings.cfg:4
+msgid "Halflings"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_Nightmares, type=_rand_nightmares
+#: Grafted_Era/factions/nightmares.cfg:4
+msgid "Nightmares of Meloen"
+msgstr ""
+
+#. [multiplayer_side]: id=Graft_Steppe, type=_rand_steppe
+#: Grafted_Era/factions/steppe.cfg:4
+msgid "Steppe Orcs"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Grafted_Era/macros/menu_item.cfg:29
+msgid ""
+"-------------------\n"
+"About Grafted Era\n"
+"-------------------\n"
+"This era contains factions that are balanced against the Default era. To "
+"ensure these factions don't end up being played against each other, the era "
+"forces a maximum of one of these not-Default factions in every game. In "
+"other words: in any game, all but one player will have Default factions.\n"
+"\n"
+"For more information have a look at 'readme.txt' in the era's folder.\n"
+"-------------------\n"
+"Contact\n"
+"-------------------\n"
+"you can post on the wesnoth.org forum, in era's topic found in the 'Faction "
+"& Era Development' section.\n"
+"you can also contact 'mystic x the unknown', preferably using wesnoth.org "
+"forum private message.\n"
+"-------------------\n"
+"Help wanted\n"
+"-------------------\n"
+"If you like this era, you might also want to contribute to it. We are "
+"especially in the need of playtesters and translators."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Grafted_Era/macros/message.cfg:23
+msgid "faction replacement"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Grafted_Era/macros/message.cfg:24
+msgid ""
+"More than one player ($show_pickers|) have selected a non-Default faction. "
+"One of those was kept and rest was changed to Default. (right-click for more)"
+msgstr ""
+
+#: Grafted_Era/macros/names.cfg:4
+msgid ""
+"John Dibbles,John Walker,John Phelms,John Darter,John Dreakes,John Kittles,"
+"John Curn,John Nodd,John Sparks,John Potfoot,John Ghelt,Perry Walker,Perry "
+"Darter,Perry Sparks,Perry Ghelt,Theodor Nodd,Theodor Curn,Pinto Sparks,Pinto "
+"Walker,Pinto Darter,Pinto Curn,Pinto Nodd,Pinto Ghelt,John Taps,Perry Taps,"
+"Pinto Taps,Theodor Taps,Mio Dibbles,Mio Walker,Mio Phelms,Mio Darter,Mio "
+"Dreakes,Mio Kittles,Mio Curn,Mio Nodd,Mio Sparks,Mio Potfoot,Mio Taps"
+msgstr ""
+
+#. [advancement]: id=Graft_amla_creep1
+#. [advancement]: id=Graft_amla_creep3
+#. [advancement]: id=Graft_amla_creep5
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:8
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:87
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:172
+msgid "Max HP bonus +1, regenerate +2"
+msgstr ""
+
+#. [advancement]: id=Graft_amla_creep2
+#. [advancement]: id=Graft_amla_creep4
+#. [advancement]: id=Graft_amla_creep6
+#. [advancement]: id=Graft_amla_creep8
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:50
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:131
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:216
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:297
+msgid "Max HP bonus +1, damage +1"
+msgstr ""
+
+#. [advancement]: id=Graft_amla_creep7
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:253
+msgid "Max HP bonus +1, regenerate +8"
+msgstr ""
+
+#. [advancement]: id=Graft_amla_creep_above
+#: Grafted_Era/macros/nightmares/amla_creepers.cfg:334
+msgid "Max HP bonus +3"
+msgstr ""
+
+#. [dummy]: id=Graft_weapon_arcane_focus
+#: Grafted_Era/macros/nightmares/arcane_focus.cfg:8
+#: Grafted_Era/macros/nightmares/arcane_focus.cfg:9
+msgid "arcane focus"
+msgstr ""
+
+#. [dummy]: id=Graft_weapon_arcane_focus
+#: Grafted_Era/macros/nightmares/arcane_focus.cfg:11
+#: Grafted_Era/macros/nightmares/arcane_focus.cfg:13
+msgid ""
+"Arcane focus:\n"
+"The opposite of arcane resistance is used for damage calculation. Thus, this "
+"attack is more efficient against most humans."
+msgstr ""
+
+#. [band]: id=Graft_band
+#: Grafted_Era/macros/nightmares/band.cfg:5
+msgid "band-"
+msgstr ""
+
+#. [band]: id=Graft_band
+#: Grafted_Era/macros/nightmares/band.cfg:6
+msgid "Band-"
+msgstr ""
+
+#. [leadership]: id=Graft_horror
+#: Grafted_Era/macros/nightmares/horror.cfg:8
+#: Grafted_Era/macros/nightmares/horror.cfg:79
+#: Grafted_Era/macros/nightmares/horror.cfg:171
+msgid "horror"
+msgstr ""
+
+#. [leadership]: id=Graft_horror
+#: Grafted_Era/macros/nightmares/horror.cfg:12
+#: Grafted_Era/macros/nightmares/horror.cfg:83
+#: Grafted_Era/macros/nightmares/horror.cfg:175
+msgid ""
+"Horror:\n"
+"This unit can frighten living enemy units that are next to it, making them "
+"fight worse.\n"
+"\n"
+"Adjacent enemy units will do less damage in battle. When a unit adjacent to "
+"and is an enemy of the unit with Horror engages in combat, its attacks do "
+"15% less damage times the difference in their levels + 25%. Non-living units "
+"are not affected and units that are 1 level above do 10% less damage."
+msgstr ""
+
+#. [dummy]: id=Graft_weapon_special_jinx
+#: Grafted_Era/macros/nightmares/jinx.cfg:9
+#: Grafted_Era/macros/nightmares/jinx.cfg:10
+msgid "jinx"
+msgstr ""
+
+#. [dummy]: id=Graft_weapon_special_jinx
+#: Grafted_Era/macros/nightmares/jinx.cfg:13
+#: Grafted_Era/macros/nightmares/jinx.cfg:16
+msgid ""
+"Jinx :\n"
+"Curses the hit unit. The cursed unit gets a 15% defense penalty on every "
+"terrain until it is cured by a healer or in a village.\n"
+"Does not affect undeads, and the defense value can't go lower than 10%."
+msgstr ""
+
+#: Grafted_Era/macros/nightmares/jinx.cfg:54
+#: Grafted_Era/macros/nightmares/jinx.cfg:102
+msgid "cursed"
+msgstr ""
+
+#. [regenerate]: id=Graft_regen_{THAT_MUCH}
+#: Grafted_Era/macros/nightmares/regen.cfg:7
+msgid "regen+"
+msgstr ""
+
+#. [regenerate]: id=Graft_regen_{THAT_MUCH}
+#: Grafted_Era/macros/nightmares/regen.cfg:8
+msgid "Regenerate + "
+msgstr ""
+
+#. [terrain_link]: id=Graft_terrain_link
+#: Grafted_Era/macros/nightmares/terrain_link.cfg:7
+msgid "terrain link"
+msgstr ""
+
+#. [terrain_link]: id=Graft_terrain_link
+#: Grafted_Era/macros/nightmares/terrain_link.cfg:22
+msgid ""
+"Terrain link :\n"
+"That unit mutates depending on the terrain you're moving on.\n"
+"\n"
+"Tornado form - from plains, castles, chasms, and almost all villages. Very "
+"mobile unit, low resistance, weak attack.\n"
+"\n"
+"Quake form - from caves, hills, and mountains. Low movement and good "
+"resistance.\n"
+"\n"
+"Bramble form - from forests and mushrooms groves. Low movement, low defense, "
+"good resistance except to fire, can slow enemies.\n"
+"\n"
+"Whirlpool form - from swamps, fords, shallow and deep water. High movement "
+"only in water, medium to low resistance.\n"
+"\n"
+"Sandstorm form - from sand based terrain. High mobility on sand like "
+"terrain, medium to low resistance.\n"
+"\n"
+"Frost form - from snow based terrain. Low mobility, good resistance except "
+"to fire and impact, can slow ennemies."
+msgstr ""
+
+#. [upkeep]: id=Graft_upkeep_band
+#: Grafted_Era/macros/nightmares/upkeep_band.cfg:6
+msgid "upkeep band"
+msgstr ""
+
+#. [upkeep]: id=Graft_upkeep_band
+#: Grafted_Era/macros/nightmares/upkeep_band.cfg:8
+msgid ""
+"Upkeep Band :\n"
+"You pay an additional 1 gold upkeep for each band of creature having the "
+"banding ability under your control. A unit with the banding ability, when "
+"alone, is also considered as a band (of 1 unit)."
+msgstr ""
+
+#: Grafted_Era/macros/nightmares/upkeep_band.cfg:210
+msgid "-1 gold"
+msgstr ""
+
+#. [race]: id=Graft_icy_water
+#: Grafted_Era/races/icy_water.cfg:4
+msgid "race^Zioghooshi"
+msgstr ""
+
+#. [race]: id=Graft_icy_water
+#: Grafted_Era/races/icy_water.cfg:5
+msgid "race+plural^Zioghooshi"
+msgstr ""
+
+#. [race]: id=Graft_icy_water
+#: Grafted_Era/races/icy_water.cfg:9
+msgid "Icy water dwellers."
+msgstr ""
+
+#. [race]: id=aberration
+#: Grafted_Era/races/race_abberation.cfg:9
+msgid "race^Aberration"
+msgstr ""
+
+#. [race]: id=aberration
+#: Grafted_Era/races/race_abberation.cfg:10
+msgid "race+plural^Aberrations"
+msgstr ""
+
+#. [race]: id=aberration
+#: Grafted_Era/races/race_abberation.cfg:12
+msgid ""
+"So deformed physically that it's immediately obvious that they can't be "
+"natural and must have been either created or altered by magic, early in "
+"their development cycle."
+msgstr ""
+
+#. [race]: id=Graft_eagle_folk
+#: Grafted_Era/races/race_eagle_folk.cfg:4
+msgid "race^Eagle Folk"
+msgstr ""
+
+#. [race]: id=Graft_eagle_folk
+#: Grafted_Era/races/race_eagle_folk.cfg:5
+msgid "race+plural^Eagle Folk"
+msgstr ""
+
+#. [race]: id=Graft_eagle_folk
+#: Grafted_Era/races/race_eagle_folk.cfg:8
+msgid "Eagles!"
+msgstr ""
+
+#. [race]: id=elemental
+#: Grafted_Era/races/race_elemental.cfg:8
+msgid "race^Elemental"
+msgstr ""
+
+#. [race]: id=elemental
+#: Grafted_Era/races/race_elemental.cfg:9
+msgid "race+plural^Elementals"
+msgstr ""
+
+#. [race]: id=elemental
+#: Grafted_Era/races/race_elemental.cfg:17
+msgid ""
+"The Elementals are the guardians of the World, spirits of the elements that "
+"incarnate themselves to fight. They are reclusive, but can be quite fierce "
+"and brutal, for as it is said, there is nothing more ruthless than nature."
+msgstr ""
+
+#. [race]: id=Graft_halfling
+#: Grafted_Era/races/race_halfling.cfg:4
+msgid "race^Halfling"
+msgstr ""
+
+#. [race]: id=Graft_halfling
+#: Grafted_Era/races/race_halfling.cfg:5
+msgid "race+plural^Halflings"
+msgstr ""
+
+#. [race]: id=Graft_halfling
+#: Grafted_Era/races/race_halfling.cfg:9
+msgid "Halflings!"
+msgstr ""
+
+#. [race]: id=insect
+#: Grafted_Era/races/race_insect.cfg:8
+msgid "race^Insect"
+msgstr ""
+
+#. [race]: id=insect
+#: Grafted_Era/races/race_insect.cfg:9
+msgid "race+plural^Insects"
+msgstr ""
+
+#. [race]: id=insect
+#: Grafted_Era/races/race_insect.cfg:12
+msgid ""
+"One insect is nothing, a dozen of them just cause a nuisance, a swarm tends "
+"to cause problems, an army... You don't want to face an army. Be mindful of "
+"the little things, they might hurt you more than you expect. You can't "
+"poison, plague or drain insects."
+msgstr ""
+
+#. [race]: id=nightmare
+#: Grafted_Era/races/race_nightmare.cfg:8
+msgid "race^Nightmare"
+msgstr ""
+
+#. [race]: id=nightmare
+#: Grafted_Era/races/race_nightmare.cfg:9
+msgid "race+plural^Nightmares"
+msgstr ""
+
+#. [race]: id=nightmare
+#: Grafted_Era/races/race_nightmare.cfg:12
+msgid ""
+"Meloen caused these... things, to incarnate the very fears gnawing at her "
+"soul and mind. Each one of them represents a single facet of terror she "
+"imprisoned herself in, and as such is unmatched in spreading fear and "
+"uncertainty beyond the limit of sanity. Nightmares are not alive and as such "
+"can't be plagued, poisoned or drained."
+msgstr ""
+
+#. [trait]: id=ruby
+#: Grafted_Era/traits/trait_elemental.cfg:8
+msgid "ruby"
+msgstr ""
+
+#. [trait]: id=ruby
+#: Grafted_Era/traits/trait_elemental.cfg:9
+msgid "female^ruby"
+msgstr ""
+
+#. [trait]: id=diamond
+#: Grafted_Era/traits/trait_elemental.cfg:27
+msgid "diamond"
+msgstr ""
+
+#. [trait]: id=diamond
+#: Grafted_Era/traits/trait_elemental.cfg:28
+msgid "female^diamond"
+msgstr ""
+
+#. [trait]: id=sapphire
+#: Grafted_Era/traits/trait_elemental.cfg:45
+msgid "sapphire"
+msgstr ""
+
+#. [trait]: id=sapphire
+#: Grafted_Era/traits/trait_elemental.cfg:46
+msgid "female^sapphire"
+msgstr ""
+
+#. [trait]: id=emerald
+#: Grafted_Era/traits/trait_elemental.cfg:59
+msgid "emerald"
+msgstr ""
+
+#. [trait]: id=emerald
+#: Grafted_Era/traits/trait_elemental.cfg:60
+msgid "female^emerald"
+msgstr ""
+
+#. [trait]: id=insect
+#: Grafted_Era/traits/trait_insect.cfg:8
+msgid "insect"
+msgstr ""
+
+#. [trait]: id=nightmare
+#. [trait]: id=insect
+#: Grafted_Era/traits/trait_nightmare.cfg:9
+#: Grafted_Era/traits/trait_insect.cfg:9
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [trait]: id=nightmare
+#: Grafted_Era/traits/trait_nightmare.cfg:8
+msgid "nightmare"
+msgstr ""
+
+#. [trait]: id=graft_strong
+#: Grafted_Era/traits/trait_strongman.cfg:6
+msgid "strong"
+msgstr ""
+
+#. [trait]: id=graft_strong
+#: Grafted_Era/traits/trait_strongman.cfg:7
+msgid "female^strong"
+msgstr ""
+
+#. [unit_type]: id=Graft_Cloud_of_Gloom, race=nightmare
+#. [unit_type]: id=Graft_Eternal_Night, race=nightmare
+#. [unit_type]: id=Graft_Howling_Darkness, race=nightmare
+#. [unit_type]: id=Graft_rand_nondef_spawn, race=monster
+#. [unit_type]: id=_rand_northerners, race=monster
+#. [unit_type]: id=_rand_rebels, race=monster
+#. [unit_type]: id=_rand_drakes, race=monster
+#. [unit_type]: id=_rand_knalgan, race=monster
+#. [unit_type]: id=_rand_steppe, race=monster
+#. [unit_type]: id=_rand_ext_g, race=monster
+#. [unit_type]: id=_rand_all, race=monster
+#. [unit_type]: id=_rand_def, race=monster
+#. [unit_type]: id=_rand_ext, race=monster
+#. [unit_type]: id=_rand_nightmares, race=monster
+#. [unit_type]: id=_rand_undead, race=monster
+#. [unit_type]: id=Graft_rand_def_spawn, race=monster
+#. [unit_type]: id=_rand_def_g, race=monster
+#. [unit_type]: id=_rand_darklands, race=monster
+#. [unit_type]: id=_rand_halflings, race=monster
+#. [unit_type]: id=_rand_loyalists, race=monster
+#. [unit_type]: id=_rand_all_g, race=monster
+#. [unit_type]: id=Graft_rand_spawn, race=monster
+#: Grafted_Era/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:20
+#: Grafted_Era/units/nightmares/ni_hd_03_eternal_night.cfg:22
+#: Grafted_Era/units/nightmares/ni_hd_01_howling_darkness.cfg:20
+#: Grafted_Era/units/_fake/_rand_spawn_ext.cfg:20
+#: Grafted_Era/units/_fake/_rand_northerners.cfg:20
+#: Grafted_Era/units/_fake/_rand_rebels.cfg:20
+#: Grafted_Era/units/_fake/_rand_drakes.cfg:20
+#: Grafted_Era/units/_fake/_rand_knalgan.cfg:20
+#: Grafted_Era/units/_fake/_rand_steppe.cfg:20
+#: Grafted_Era/units/_fake/_rand_ext_g.cfg:20
+#: Grafted_Era/units/_fake/_rand_all.cfg:20
+#: Grafted_Era/units/_fake/_rand_def.cfg:20
+#: Grafted_Era/units/_fake/_rand_ext.cfg:20
+#: Grafted_Era/units/_fake/_rand_nightmares.cfg:20
+#: Grafted_Era/units/_fake/_rand_undead.cfg:20
+#: Grafted_Era/units/_fake/_rand_spawn_def.cfg:20
+#: Grafted_Era/units/_fake/_rand_def_g.cfg:20
+#: Grafted_Era/units/_fake/_rand_darklands.cfg:20
+#: Grafted_Era/units/_fake/_rand_halflings.cfg:20
+#: Grafted_Era/units/_fake/_rand_loyalists.cfg:20
+#: Grafted_Era/units/_fake/_rand_all_g.cfg:20
+#: Grafted_Era/units/_fake/_rand_spawn.cfg:20
+msgid "."
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/_fake/_rand_spawn_ext.cfg:23
+#: Grafted_Era/units/_fake/_rand_northerners.cfg:23
+#: Grafted_Era/units/_fake/_rand_rebels.cfg:23
+#: Grafted_Era/units/_fake/_rand_drakes.cfg:23
+#: Grafted_Era/units/_fake/_rand_knalgan.cfg:23
+#: Grafted_Era/units/_fake/_rand_steppe.cfg:23
+#: Grafted_Era/units/_fake/_rand_ext_g.cfg:23
+#: Grafted_Era/units/_fake/_rand_all.cfg:23
+#: Grafted_Era/units/_fake/_rand_def.cfg:23
+#: Grafted_Era/units/_fake/_rand_ext.cfg:23
+#: Grafted_Era/units/_fake/_rand_nightmares.cfg:23
+#: Grafted_Era/units/_fake/_rand_undead.cfg:23
+#: Grafted_Era/units/_fake/_rand_spawn_def.cfg:23
+#: Grafted_Era/units/_fake/_rand_def_g.cfg:23
+#: Grafted_Era/units/_fake/_rand_darklands.cfg:23
+#: Grafted_Era/units/_fake/_rand_halflings.cfg:23
+#: Grafted_Era/units/_fake/_rand_loyalists.cfg:23
+#: Grafted_Era/units/_fake/_rand_all_g.cfg:23
+#: Grafted_Era/units/_fake/_rand_spawn.cfg:23
+msgid "g"
+msgstr ""
+
+#. [unit_type]: id=Graft_Ambusher, race=human
+#: Grafted_Era/units/darklands/Ambusher.cfg:4
+msgid "Ambusher"
+msgstr ""
+
+#. [unit_type]: id=Graft_Ambusher, race=human
+#. [unit_type]: id=Graft_Henchman, race=human
+#: Grafted_Era/units/darklands/Ambusher.cfg:27
+#: Grafted_Era/units/darklands/Henchman.cfg:26
+msgid ""
+"These bandits and criminals have been cleared of any charges and, forming a "
+"separate unit, they now serve as an important part of their Lord's troops."
+msgstr ""
+
+#. [unit_type]: id=Graft_Archer, race=human
+#: Grafted_Era/units/darklands/Archer.cfg:4
+msgid "Archer"
+msgstr ""
+
+#. [unit_type]: id=Graft_Archer, race=human
+#: Grafted_Era/units/darklands/Archer.cfg:20
+msgid ""
+"The backbone of Lord's army consists of Ill-trained conscripts with cheap "
+"weapons."
+msgstr ""
+
+#. [unit_type]: id=Graft_Dark_Knight, race=human
+#: Grafted_Era/units/darklands/Dark_Knight.cfg:4
+msgid "Dark Knight"
+msgstr ""
+
+#. [unit_type]: id=Graft_Dark_Knight, race=human
+#: Grafted_Era/units/darklands/Dark_Knight.cfg:24
+msgid ""
+"These knights have aquired great skills and there's hardly a match for them. "
+"Enjoying their high status, they incline to fulfilling their desires without "
+"scruples. The common folk know all too well they better be wary when one is "
+"around."
+msgstr ""
+
+#. [unit_type]: id=Graft_Dark_Rider, race=human
+#: Grafted_Era/units/darklands/Dark_Rider.cfg:4
+msgid "Dark Rider"
+msgstr ""
+
+#. [unit_type]: id=Graft_Dark_Rider, race=human
+#: Grafted_Era/units/darklands/Dark_Rider.cfg:23
+msgid ""
+"Knights whose viciousness and sadism has given them an aura of fear which "
+"follows them."
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Knight, race=human
+#: Grafted_Era/units/darklands/Demon_Knight.cfg:4
+msgid "Demon Knight"
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Knight, race=human
+#: Grafted_Era/units/darklands/Demon_Knight.cfg:26
+msgid ""
+"Demon knight's appearance is horrid and it's clear he's not an ordinary man. "
+"Some say he's been possessed while some belive he lost his soul to the "
+"devil. The immense aura of fright brought along with his presence grips and "
+"overwhelms all but the most hardened."
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Lord, race=human
+#: Grafted_Era/units/darklands/Demon_Lord.cfg:4
+msgid "Demon Lord"
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Lord, race=human
+#: Grafted_Era/units/darklands/Demon_Lord.cfg:23
+msgid ""
+"This man is very different from what he used to be. He's impulsive and "
+"unpredictable, often discharging with anger, and exhibits an uncanny "
+"tendency to torture enemies and even some unfortunate subordinates. Though "
+"theoretically of the highest rank, the Lord tries to avoid him and only "
+"entrusts him with simple tasks."
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Wolf, race=wolf
+#: Grafted_Era/units/darklands/Demon_Wolf.cfg:4
+msgid "Demon Wolf"
+msgstr ""
+
+#. [unit_type]: id=Graft_Demon_Wolf, race=wolf
+#: Grafted_Era/units/darklands/Demon_Wolf.cfg:30
+msgid ""
+"It is said that some of the wolves haunting the Darklands' forests, fed by "
+"their masters on human flesh -and, it is whispered, strengthened through "
+"dark magics- are more than mere wolves. In the dead of night, when a "
+"horrible howl freezes your heart with fear, know that their fearsome jaws "
+"are also near..."
+msgstr ""
+
+#. [attack]: type=cold
+#: Grafted_Era/units/darklands/Demon_Wolf.cfg:47
+#: Grafted_Era/units/darklands/Dread_Wolf.cfg:45
+#: Grafted_Era/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:48
+#: Grafted_Era/units/nightmares/ni_hd_03_eternal_night.cfg:51
+#: Grafted_Era/units/nightmares/ni_hd_01_howling_darkness.cfg:35
+msgid "howl"
+msgstr ""
+
+#. [unit_type]: id=Graft_Dread_Wolf, race=wolf
+#: Grafted_Era/units/darklands/Dread_Wolf.cfg:4
+msgid "Dread Wolf"
+msgstr ""
+
+#. [unit_type]: id=Graft_Dread_Wolf, race=wolf
+#: Grafted_Era/units/darklands/Dread_Wolf.cfg:28
+msgid ""
+"It is said that some of the wolves haunting the Darklands's forests, fed by "
+"their masters on human flesh -and, it is whispered, strengthened through "
+"dark magics- are more than mere wolves. In the dead of night, when a "
+"horrible howl freezes your heart with fear, know that their fearsome jaws "
+"are also near..."
+msgstr ""
+
+#. [unit_type]: id=Graft_Forester, race=human
+#: Grafted_Era/units/darklands/Forester.cfg:4
+msgid "Forester"
+msgstr ""
+
+#. [unit_type]: id=Graft_Forester, race=human
+#: Grafted_Era/units/darklands/Forester.cfg:30
+msgid ""
+"Controlling the dense woodlands covering most of the Lord's domain is of "
+"crucial importance. With most troops staying in garrisons and guardposts, "
+"some are given the duty of patrolling and carrying out various tasks in "
+"these woods. Foresters tend to welcome this distraction from constant "
+"bullying and some unsettling occurences widespread thoughout the military."
+msgstr ""
+
+#. [unit_type]: id=Graft_Giant, race=human
+#: Grafted_Era/units/darklands/Giant.cfg:4
+msgid "Giant"
+msgstr ""
+
+#. [unit_type]: id=Graft_Giant, race=human
+#. [unit_type]: id=Graft_Strongman, race=human
+#: Grafted_Era/units/darklands/Giant.cfg:31
+#: Grafted_Era/units/darklands/Strongman.cfg:30
+msgid ""
+"Men of tremendous size and strength are sometimes born to the peasants of "
+"the Darklands, to grow up surrounded by superstition, hatred and awe. Their "
+"life is often a brutish one, forever on the fringe of village society, even "
+"their cloudy minds refusing them much help. But they may find gold, and "
+"license to bully those that always secretly hated them, and that they always "
+"secretly hated, among the troops of the dark lords."
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/darklands/Giant.cfg:49
+#: Grafted_Era/units/darklands/Strongman.cfg:48
+msgid "axe head"
+msgstr ""
+
+#. [unit_type]: id=Graft_Henchman, race=human
+#: Grafted_Era/units/darklands/Henchman.cfg:4
+msgid "Henchman"
+msgstr ""
+
+#. [unit_type]: id=Graft_Overlord, race=human
+#: Grafted_Era/units/darklands/Overlord.cfg:4
+msgid "Overlord"
+msgstr ""
+
+#. [unit_type]: id=Graft_Overlord, race=human
+#: Grafted_Era/units/darklands/Overlord.cfg:22
+msgid ""
+"These once lowly supervisors have proven their worth to their master with "
+"their loyalty and to a varying degree leadership skill. They keep to "
+"themselves, as could be expected for a harsh taskmaster, though many feel "
+"there is more to this reclusiveness. Some are greatly scared of them and "
+"will make that more sure not to disappoint their superiors."
+msgstr ""
+
+#. [attack]: description={STR_MACE}, type=impact
+#: Grafted_Era/units/darklands/Overlord.cfg:30
+#: Grafted_Era/units/darklands/Warlock.cfg:31
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=Graft_Overseer, race=human
+#: Grafted_Era/units/darklands/Overseer.cfg:4
+msgid "Overseer"
+msgstr ""
+
+#. [unit_type]: id=Graft_Overseer, race=human
+#: Grafted_Era/units/darklands/Overseer.cfg:22
+msgid ""
+"The most trusted of Lord's subordinates are given the much welcome privilege "
+"of doning expensive heavy armour and leading the troops into battle. Their "
+"ability to weaken enemies just before the fighting begins is left "
+"unexplained."
+msgstr ""
+
+#. [unit_type]: id=Graft_Possessed_Knight, race=human
+#: Grafted_Era/units/darklands/Possessed_Knight.cfg:4
+msgid "Possessed Knight"
+msgstr ""
+
+#. [unit_type]: id=Graft_Possessed_Knight, race=human
+#: Grafted_Era/units/darklands/Possessed_Knight.cfg:29
+msgid ""
+"Succumbing to their inner turmoil, these knights have ultimately become "
+"possessed. Most commoners notice this unsettling change, but they would "
+"never dare making that apparent. Sometimes these knights are seen with "
+"streams of otherworldly flames bursting from their fingertips... some say "
+"this fire also burns in their hearts, eating away what's still human in them."
+msgstr ""
+
+#. [unit_type]: id=Graft_Soldier, race=human
+#: Grafted_Era/units/darklands/Soldier.cfg:4
+msgid "Soldier"
+msgstr ""
+
+#. [unit_type]: id=Graft_Soldier, race=human
+#: Grafted_Era/units/darklands/Soldier.cfg:21
+msgid ""
+"Though the archers' service duties are mostly tedious, sometimes they turn "
+"into a real combat encounter. Those who survive a few serious fights go on "
+"to become soldiers. Though they possess some valuable experience and have a "
+"bit better standing, most still wish they had been never taken into the army."
+msgstr ""
+
+#. [unit_type]: id=Graft_Strongman, race=human
+#: Grafted_Era/units/darklands/Strongman.cfg:4
+msgid "Strongman"
+msgstr ""
+
+#. [unit_type]: id=Graft_Warlock, race=human
+#: Grafted_Era/units/darklands/Warlock.cfg:4
+msgid "Warlock"
+msgstr ""
+
+#. [unit_type]: id=Graft_Warlock, race=human
+#: Grafted_Era/units/darklands/Warlock.cfg:23
+msgid ""
+"These so called warlocks get their name from the obsure art they practice. "
+"They are highly secretive about the nature of this craft."
+msgstr ""
+
+#. [unit_type]: id=Graft_Wolf, race=wolf
+#: Grafted_Era/units/darklands/Wolf.cfg:28
+msgid ""
+"Behind every fern and every tree of the Darklands lurk the spies and "
+"assassins of the dark lords. Large, vicious wolves, bound to their master's "
+"will by brutal taming -though it is whispered dark magics may have taken a "
+"part in it- prowl, ever on the lookout. The fearsome creatures's speed have "
+"proven effective for spying, and raiding villages; and anyone relying on "
+"stealth rather than force has better reconsider, for the wolf's cruel jaws "
+"and keen nose will find him anywhere"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_alchemist_0, race=Graft_halfling
+#: Grafted_Era/units/halflings/0_alchemist.cfg:4
+msgid "Halfling Alchemist"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_alchemist_0, race=Graft_halfling
+#. [unit_type]: id=Graft_half_alchemist_2, race=Graft_halfling
+#. [unit_type]: id=Graft_half_alchemist_1, race=Graft_halfling
+#. [unit_type]: id=Graft_half_alchemist_3, race=Graft_halfling
+#: Grafted_Era/units/halflings/0_alchemist.cfg:19
+#: Grafted_Era/units/halflings/2_alchemist.cfg:19
+#: Grafted_Era/units/halflings/1_alchemist.cfg:19
+#: Grafted_Era/units/halflings/3_alchemist.cfg:20
+msgid ""
+"As the halflings are more interested in good living and comfort than obscure "
+"creations, the halflings alchemists spend more time studying medicine and "
+"healing elixirs than transmutation of materials. They have also devised a "
+"number of mixtures which create a great deal of noisy sound and even lights "
+"to distract enemies with."
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/halflings/0_alchemist.cfg:30
+#: Grafted_Era/units/halflings/1_alchemist.cfg:30
+msgid "walking stick"
+msgstr ""
+
+#. [attack]: type=fire
+#: Grafted_Era/units/halflings/0_alchemist.cfg:39
+#: Grafted_Era/units/halflings/2_alchemist.cfg:39
+#: Grafted_Era/units/halflings/1_alchemist.cfg:39
+#: Grafted_Era/units/halflings/3_alchemist.cfg:40
+msgid "fire candle"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_militia_0, race=Graft_halfling
+#: Grafted_Era/units/halflings/0_militia.cfg:4
+msgid "Halfling Militia"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_militia_2, race=Graft_halfling
+#. [unit_type]: id=Graft_half_militia_0, race=Graft_halfling
+#. [unit_type]: id=Graft_half_militia_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_militia.cfg:20
+#: Grafted_Era/units/halflings/0_militia.cfg:19
+#: Grafted_Era/units/halflings/1_militia.cfg:19
+msgid ""
+"Although most people see halflings as weaklings they have been able to prove "
+"time and time again that they can be stout of heart in defending their home. "
+"Throwing themselves into combat armed only with farming implements, they can "
+"be far too deadly to be understimated."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_net_0, race=Graft_halfling
+#: Grafted_Era/units/halflings/0_net.cfg:4
+msgid "Halfling Net"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_net_1, race=Graft_halfling
+#. [unit_type]: id=Graft_half_net_0, race=Graft_halfling
+#. [unit_type]: id=Graft_half_net_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_net.cfg:19
+#: Grafted_Era/units/halflings/0_net.cfg:19
+#: Grafted_Era/units/halflings/2_net.cfg:20
+msgid ""
+"Halflings have long made nets for hunting and fishing. Although these "
+"traditional snares are used to catch small creatures the halflings "
+"frequently deploy the people who make them in defense against more dangerous "
+"enemies. Trying to wrap enemies in nets is extremely dangerous, and the net-"
+"carrying halflings take precedence when it comes to distributing armor."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_slinger_0, race=Graft_halfling
+#: Grafted_Era/units/halflings/0_slinger.cfg:4
+msgid "Halfling Slinger"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_slinger_2, race=Graft_halfling
+#. [unit_type]: id=Graft_half_slinger_0, race=Graft_halfling
+#. [unit_type]: id=Graft_half_slinger_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_slinger.cfg:20
+#: Grafted_Era/units/halflings/0_slinger.cfg:19
+#: Grafted_Era/units/halflings/1_slinger.cfg:19
+msgid ""
+"Halflings are quite skilled with slings. The pastime of sling shooting is a "
+"popular one and some also use slings for hunting. Their marksmanship, "
+"reloading and speed is quite impressive. These slingers also tend to be "
+"quite nimble on their feet."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_alchemist_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_alchemist.cfg:4
+msgid "Halfling Expert Alchemist"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_armor_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_armor.cfg:4
+msgid "Halfling Armor"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_armor_1, race=Graft_halfling
+#. [unit_type]: id=Graft_half_armor_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_armor.cfg:19
+#: Grafted_Era/units/halflings/2_armor.cfg:20
+msgid ""
+"Dealing with a front-on charge is a serious challenge for the halflings. "
+"With various collected items they construct a makeshift armor and using this "
+"suit they become surprisingly good defenders."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_eagle_1, race=Graft_eagle_folk
+#: Grafted_Era/units/halflings/1_eagle.cfg:4
+msgid "Eagle"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_eagle_1, race=Graft_eagle_folk
+#. [unit_type]: id=Graft_half_eagle_3, race=Graft_eagle_folk
+#. [unit_type]: id=Graft_half_eagle_2, race=Graft_eagle_folk
+#: Grafted_Era/units/halflings/1_eagle.cfg:19
+#: Grafted_Era/units/halflings/3_eagle.cfg:20
+#: Grafted_Era/units/halflings/2_eagle.cfg:19
+msgid ""
+"The great eagles have always been friends of the halflings and willing to "
+"help them defend their homes in times of need."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_militia_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_militia.cfg:4
+msgid "Halfling Expeller"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_net_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_net.cfg:4
+msgid "Halfling Catcher"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_pony_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_pony.cfg:4
+msgid "Halfling Pony"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_charger_2, race=Graft_halfling
+#. [unit_type]: id=Graft_half_pony_2, race=Graft_halfling
+#. [unit_type]: id=Graft_half_pony_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_charger.cfg:21
+#: Grafted_Era/units/halflings/2_pony.cfg:21
+#: Grafted_Era/units/halflings/1_pony.cfg:20
+msgid ""
+"Trained to carry loads and plow fields, these ponies have been turned into "
+"weapons of war."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_slinger_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_slinger.cfg:4
+msgid "Halfling Slingster"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_stalker_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_stalker.cfg:4
+msgid "Halfling Stalker"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_stalker_1, race=Graft_halfling
+#. [unit_type]: id=Graft_half_stalker_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_stalker.cfg:19
+#: Grafted_Era/units/halflings/2_stalker.cfg:20
+msgid ""
+"Some slingers come to think their skill at slipping by enemies could be made "
+"better use of. These individuals use their gift of agility and hairy feet "
+"for sneaking up to and stabbing people and creatures where they would least "
+"want them to."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_veteran_1, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_veteran.cfg:4
+msgid "Halfling Reeve"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_veteran_1, race=Graft_halfling
+#. [unit_type]: id=Graft_half_veteran_3, race=Graft_halfling
+#. [unit_type]: id=Graft_half_veteran_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/1_veteran.cfg:19
+#: Grafted_Era/units/halflings/3_veteran.cfg:20
+#: Grafted_Era/units/halflings/2_veteran.cfg:19
+msgid ""
+"Every halfling militia or posse is headed by a halfling who has braved "
+"combat before and who will do so again."
+msgstr ""
+
+#. [unit_type]: id=Graft_half_alchemist_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_alchemist.cfg:4
+msgid "Halfling Magician"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_armor_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_armor.cfg:4
+msgid "Halfling Barrier"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_charger_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_charger.cfg:4
+msgid "Halfling Charger"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_eagle_2, race=Graft_eagle_folk
+#: Grafted_Era/units/halflings/2_eagle.cfg:4
+msgid "Soaring Eagle"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_militia_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_militia.cfg:4
+msgid "Halfling Stouthearted"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_net_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_net.cfg:4
+msgid "Halfling Stopper"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_pony_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_pony.cfg:4
+msgid "Halfling Cavalry"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_slinger_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_slinger.cfg:4
+msgid "Halfling Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_stalker_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_stalker.cfg:4
+msgid "Halfling Slayer"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_veteran_2, race=Graft_halfling
+#: Grafted_Era/units/halflings/2_veteran.cfg:4
+msgid "Halfling Thane"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_alchemist_3, race=Graft_halfling
+#: Grafted_Era/units/halflings/3_alchemist.cfg:4
+msgid "Halfling Great Magician"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_eagle_3, race=Graft_eagle_folk
+#: Grafted_Era/units/halflings/3_eagle.cfg:4
+msgid "Majestic Eagle"
+msgstr ""
+
+#. [unit_type]: id=Graft_half_veteran_3, race=Graft_halfling
+#: Grafted_Era/units/halflings/3_veteran.cfg:4
+msgid "Halfling General"
+msgstr ""
+
+#. [unit_type]: id=Graft_Black_Cat, race=aberration
+#: Grafted_Era/units/nightmares/ab_bc_01_black_cat.cfg:6
+msgid "Black Cat"
+msgstr ""
+
+#. [unit_type]: id=Graft_Calamity, race=aberration
+#. [unit_type]: id=Graft_Black_Cat, race=aberration
+#. [unit_type]: id=Graft_Jinx_Beast, race=aberration
+#: Grafted_Era/units/nightmares/ab_bc_03_calamity.cfg:22
+#: Grafted_Era/units/nightmares/ab_bc_01_black_cat.cfg:22
+#: Grafted_Era/units/nightmares/ab_bc_02_jinx_beast.cfg:22
+msgid ""
+"Fate can be treacherous at times, as quick to offer you a present as to turn "
+"it into a burden. When Meloen succeeded in brushing the knowlegde of magic's "
+"origin with the tip of her mind during a short lap of supreme lucidity, she "
+"fused with her environment, against all odds. But her first doubts opened "
+"the door to more self-doubt and she started to think that luck only was "
+"responsible for these events, and not her determination and work. Or rather, "
+"she thought that misfortune played with her life, amusing itself in putting "
+"her in a nightmare.\n"
+"Black cats are simple forest creatures that have turned into a hideous "
+"chimera by Meloen's thoughts and, although no one knows what kind of magic "
+"is behind their power, it seems that any creature that cross their evil eyes "
+"is stroke by misfortune."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Grafted_Era/units/nightmares/ab_bc_03_calamity.cfg:44
+#: Grafted_Era/units/nightmares/ab_bc_01_black_cat.cfg:42
+#: Grafted_Era/units/nightmares/ab_bc_02_jinx_beast.cfg:42
+msgid "ill omen"
+msgstr ""
+
+#. [unit_type]: id=Graft_Jinx_Beast, race=aberration
+#: Grafted_Era/units/nightmares/ab_bc_02_jinx_beast.cfg:6
+msgid "Jinx Beast"
+msgstr ""
+
+#. [unit_type]: id=Graft_Calamity, race=aberration
+#: Grafted_Era/units/nightmares/ab_bc_03_calamity.cfg:6
+msgid "Calamity"
+msgstr ""
+
+#. [unit_type]: id=Graft_Scornful_Watcher, race=aberration
+#: Grafted_Era/units/nightmares/ab_sw_01_scornful_watcher.cfg:6
+msgid "Scornful Watcher"
+msgstr ""
+
+#. [unit_type]: id=Graft_Spiteful_Watcher, race=aberration
+#. [unit_type]: id=Graft_Inquisitor, race=aberration
+#. [unit_type]: id=Graft_Scornful_Watcher, race=aberration
+#: Grafted_Era/units/nightmares/ab_sw_02_spiteful_watcher.cfg:21
+#: Grafted_Era/units/nightmares/ab_sw_03_inquisitor.cfg:21
+#: Grafted_Era/units/nightmares/ab_sw_01_scornful_watcher.cfg:21
+msgid ""
+"Bad dreams after bad dreams, growing to nightmares, Meloen fell into a "
+"paranoid dementia, thinking to be judged for her misdeeds and revived her "
+"childhood, when she was afraid of the way people looked at her. The eyes of "
+"disdain were born from this fear and now attack mentally their victims, "
+"turning their complexes into physical sufferings."
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/ab_sw_02_spiteful_watcher.cfg:32
+#: Grafted_Era/units/nightmares/ab_sw_03_inquisitor.cfg:34
+#: Grafted_Era/units/nightmares/ab_sw_01_scornful_watcher.cfg:40
+msgid "kick"
+msgstr ""
+
+#. [attack]: type=arcane_focus
+#: Grafted_Era/units/nightmares/ab_sw_02_spiteful_watcher.cfg:41
+#: Grafted_Era/units/nightmares/ab_sw_03_inquisitor.cfg:43
+#: Grafted_Era/units/nightmares/ab_sw_01_scornful_watcher.cfg:49
+msgid "stare"
+msgstr ""
+
+#. [unit_type]: id=Graft_Spiteful_Watcher, race=aberration
+#: Grafted_Era/units/nightmares/ab_sw_02_spiteful_watcher.cfg:6
+msgid "Spiteful Watcher"
+msgstr ""
+
+#. [unit_type]: id=Graft_Inquisitor, race=aberration
+#: Grafted_Era/units/nightmares/ab_sw_03_inquisitor.cfg:6
+msgid "Inquisitor"
+msgstr ""
+
+#. [unit_type]: id=Graft_Unhatched, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_01_unhatched_.cfg:6
+msgid "Unhatched"
+msgstr ""
+
+#. [unit_type]: id=Graft_Unhatched, race=aberration
+#. [unit_type]: id=Graft_Reckless_One, race=aberration
+#. [unit_type]: id=Graft_Raging_One, race=aberration
+#. [unit_type]: id=Graft_Angry_One, race=aberration
+#. [unit_type]: id=Graft_Rash_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_01_unhatched_.cfg:21
+#: Grafted_Era/units/nightmares/ab_un_03b_reckless_one.cfg:21
+#: Grafted_Era/units/nightmares/ab_un_03_raging_one.cfg:21
+#: Grafted_Era/units/nightmares/ab_un_02_angry_one.cfg:21
+#: Grafted_Era/units/nightmares/ab_un_02b_rash_one.cfg:21
+msgid ""
+"These hideous monsters came from the very first fear of Meloen : to mother a "
+"physically or mentally ill child. Not quite formed yet, the unhatched partly "
+"breaks the shell with its powerful legs, then its naturally agressive "
+"instinct guide it to charge and complete its hatch onto foes."
+msgstr ""
+
+#. [unit_type]: id=Graft_Angry_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_02_angry_one.cfg:6
+msgid "Angry One"
+msgstr ""
+
+#. [unit_type]: id=Graft_Rash_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_02b_rash_one.cfg:6
+msgid "Rash One"
+msgstr ""
+
+#. [unit_type]: id=Graft_Raging_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_03_raging_one.cfg:6
+msgid "Raging One"
+msgstr ""
+
+#. [unit_type]: id=Graft_Reckless_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_03b_reckless_one.cfg:6
+msgid "Reckless One"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:23
+msgid "Tornado Form of Unstable Elemental"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:34
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:97
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:162
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:237
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:393
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:457
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:28
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:91
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:156
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:231
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:387
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:451
+msgid ""
+"Despising herself, self-doubting, Meloen felt a strong distrust of her "
+"surroundings. Panarbori, the spirit of nature originally made to flesh by "
+"the power of Meloen's love toward the forest, had been also altered by the "
+"doubts of Meloen. He became the opposite of what the former silver mage was "
+"seeking in her companion, and instead of being considerate and a source of "
+"stability, he went impulsive and violent. His fits of anger would be "
+"compared to the wrath of nature itself and were responsible for a few "
+"natural catastrophes.\n"
+"\n"
+"These unstable elementals are bits of Panarbori that get released after a "
+"rage tantrum, with the help of Meloen's power. They are as unpredictable as "
+"their father, rushing like small furies from a battlefield to another."
+msgstr ""
+
+#. [attack]: type=blade
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:43
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:37
+msgid "gust"
+msgstr ""
+
+#. [attack]: type=blade
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:52
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:46
+msgid "air blast"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:86
+msgid "Bramble Form of Unstable Elemental"
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:106
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:100
+msgid "crunch"
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:109
+msgid "ensnare"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:151
+msgid "Quake Form of Unstable Elemental"
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:171
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:165
+msgid "shatter"
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:180
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:174
+msgid "boulder"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:226
+msgid "Whirlpool Form of Unstable Elemental"
+msgstr ""
+
+#. [attack]: type=blade
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:289
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:283
+msgid "billow"
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:298
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:292
+msgid "water blast"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:382
+msgid "Sandstorm Form of Unstable Elemental"
+msgstr ""
+
+#. [attack]: type=blade
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:402
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:396
+msgid "devil dust"
+msgstr ""
+
+#. [attack]: type=blade
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:411
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:405
+msgid "sand blast"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:446
+msgid "Frost Form of Unstable Elemental"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:466
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:460
+msgid "deathblow"
+msgstr ""
+
+#. [attack]: type=cold
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:475
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:469
+msgid "ice breath"
+msgstr ""
+
+#. [unit_type]: id=Graft_Unstable_Elemental
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:520
+msgid "Unstable Elemental"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_tornado
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:569
+msgid "Unstable Elemental - Tornado Form"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_bramble
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:575
+msgid "Unstable Elemental - Bramble Form"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_quake
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:581
+msgid "Unstable Elemental - Quake Form"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_whirlpool
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:587
+msgid "Unstable Elemental - Whirlpool Form"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_sandstorm
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:593
+msgid "Unstable Elemental - Sandstorm Form"
+msgstr ""
+
+#. [unit_type]: id=Graft_unstable_frost
+#: Grafted_Era/units/nightmares/el_ue_01_unstable_elemental.cfg:599
+msgid "Unstable Elemental - Frost Form"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:29
+msgid "Tornado Form of Nature Wrath"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:92
+msgid "Bramble Form of Nature Wrath"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:157
+msgid "Quake Form of Nature Wrath"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:232
+msgid "Whirlpool Form of Nature Wrath"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:388
+msgid "Sandstorm Form of Nature Wrath"
+msgstr ""
+
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:452
+msgid "Frost Form of Nature Wrath"
+msgstr ""
+
+#. [unit_type]: id=Graft_Nature_Wrath
+#: Grafted_Era/units/nightmares/el_ue_02_nature_wrath.cfg:526
+msgid "Nature Wrath"
+msgstr ""
+
+#. [variation]: id=Graft_Creepers, race=insect
+#. [unit_type]: id=Graft_Creepers, race=insect
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:5
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:51
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:100
+msgid "Creepers"
+msgstr ""
+
+#. [variation]: id=Graft_Creepers, race=insect
+#. [unit_type]: id=Graft_Creepers, race=insect
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:20
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:66
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:115
+msgid ""
+"These degenerated insects group with each other to raid living beings in an "
+"irrationally aggressive way. A significant amount of reports from farmers "
+"states about clouds of bees wreaking havoc into their sheptels."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:37
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:85
+#: Grafted_Era/units/nightmares/in_cr_00_creepers.cfg:136
+msgid "sting"
+msgstr ""
+
+#. [unit_type]: id=Graft_Howling_Darkness, race=nightmare
+#: Grafted_Era/units/nightmares/ni_hd_01_howling_darkness.cfg:5
+msgid "Howling Darkness"
+msgstr ""
+
+#. [unit_type]: id=Graft_Cloud_of_Gloom, race=nightmare
+#: Grafted_Era/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:5
+msgid "Cloud of Gloom"
+msgstr ""
+
+#. [attack]: type=cold
+#: Grafted_Era/units/nightmares/ni_hd_02_cloud_of_gloom.cfg:36
+#: Grafted_Era/units/nightmares/ni_hd_03_eternal_night.cfg:38
+msgid "cold aura"
+msgstr ""
+
+#. [unit_type]: id=Graft_Eternal_Night, race=nightmare
+#: Grafted_Era/units/nightmares/ni_hd_03_eternal_night.cfg:6
+msgid "Eternal Night"
+msgstr ""
+
+#. [unit_type]: id=Graft_Life_Thief, race=nightmare
+#: Grafted_Era/units/nightmares/ni_lt_01_life_thief.cfg:5
+msgid "Life Thief"
+msgstr ""
+
+#. [unit_type]: id=Graft_Life_Thief, race=nightmare
+#. [unit_type]: id=Graft_Soul_Snatcher, race=nightmare
+#. [unit_type]: id=Graft_Death_Spectre, race=nightmare
+#: Grafted_Era/units/nightmares/ni_lt_01_life_thief.cfg:21
+#: Grafted_Era/units/nightmares/ni_lt_02_soul_snatcher.cfg:22
+#: Grafted_Era/units/nightmares/ni_lt_03_death_spectre.cfg:22
+msgid ""
+"In her moments of happiness, Meloen enjoyed gazing at butterflies. In these "
+"rare moments of meditation she also got conscious of how much they were "
+"short lived and realised her own condition of life.\n"
+"During a sleep, while she was pregnant, Meloen saw a spooky spirit shaped "
+"like a butterfly, floating above her and the child she was holding, and "
+"immediately identified the spirit as an underling of death itself, warning "
+"her that she wouldn't live long enough to see her child growth. There was "
+"little time then, before spectres of death spread into the forest."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Grafted_Era/units/nightmares/ni_lt_01_life_thief.cfg:32
+#: Grafted_Era/units/nightmares/ni_lt_02_soul_snatcher.cfg:33
+#: Grafted_Era/units/nightmares/ni_lt_03_death_spectre.cfg:35
+msgid "soul grasp"
+msgstr ""
+
+#. [unit_type]: id=Graft_Soul_Snatcher, race=nightmare
+#: Grafted_Era/units/nightmares/ni_lt_02_soul_snatcher.cfg:6
+msgid "Soul Snatcher"
+msgstr ""
+
+#. [unit_type]: id=Graft_Death_Spectre, race=nightmare
+#: Grafted_Era/units/nightmares/ni_lt_03_death_spectre.cfg:6
+msgid "Death Spectre"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Drover, race=orc
+#: Grafted_Era/units/steppe/Icewind_Drover.cfg:4
+msgid "Icewind Drover"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Drover, race=orc
+#: Grafted_Era/units/steppe/Icewind_Drover.cfg:20
+msgid ""
+"A Herder of sufficient ability can become what the Steppe_Orcs call a "
+"Drover, the elite of the IceWind order. With age and experience in the "
+"control of elemental magics. Some have claimed to be capable of summoning "
+"forth fierce blizzards from a clear sky, an unlikely feat unconfirmed by "
+"outsiders. When asked about the mechanics of their abilities they often "
+"answer by referring to themselves as 'conduits'. Just what it is that they "
+"channel is never revealed.\n"
+"The tribespeople claim to notice a blue tinge that begins to pervade their "
+"normally brown complexion and a crystalline hardness of their skin. Other "
+"steppe orcs whisper that this is because their hearts pump not blood, but "
+"ice."
+msgstr ""
+
+#. [attack]: type=cold
+#: Grafted_Era/units/steppe/Icewind_Master.cfg:43
+#: Grafted_Era/units/steppe/Icewind_Herder.cfg:47
+#: Grafted_Era/units/steppe/Icewind_Drover.cfg:42
+msgid "frostbite"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Herder, race=orc
+#: Grafted_Era/units/steppe/Icewind_Herder.cfg:4
+msgid "Icewind Herder"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Herder, race=orc
+#: Grafted_Era/units/steppe/Icewind_Herder.cfg:21
+msgid ""
+"There is an old tale about the creation of the the IceWind order: A gang of "
+"children were fishing when a very young female, hooking something bigger "
+"then she could land, was dragged into the subzero waters. She did not "
+"reappear. Two days later, by which time the tribe had nearly forgotten the "
+"loss, a sentry witnessed an unnerving spectacle. The very same girl, "
+"delirious with exhaustion and deathly pale, was spotted dragging herself "
+"from the pond.\n"
+"After the incident the girl, whose name is a closely guarded secret, was "
+"never the same. The tribespeople told stories of seeing her freeze a bear "
+"solid, simply by looking at it, others claimed that she went out by night to "
+"converse with unseen things that moved in the water. Nobody dared approach "
+"her about these rumours, lest they prove to be true. \n"
+"She became the founder of the IceWind order, every year she would select "
+"children from the tribe to train. Whatever she taught them, it granted them "
+"a mysterious influence over the elements of their habitat. The Herders "
+"themselves describe this influence as "
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Master, race=orc
+#: Grafted_Era/units/steppe/Icewind_Master.cfg:4
+msgid "Icewind Master"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Master, race=orc
+#: Grafted_Era/units/steppe/Icewind_Master.cfg:20
+msgid ""
+"Masters are a rare thing indeed, especially in a race with little aptitude "
+"for magic. There is almost never more then one in each generation and, as "
+"often as not, no Masters will emerge for decades. Those that do reach this "
+"pinnacle of their order are often of reclusive nature, as their power "
+"seperates them from the main clan. However the reasons for their "
+"estrangement also grant them great respect from their brethren."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Bladesman, race=orc
+#: Grafted_Era/units/steppe/Steppe_Bladesman.cfg:4
+msgid "Steppe Bladesman"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Bladesman, race=orc
+#: Grafted_Era/units/steppe/Steppe_Bladesman.cfg:19
+msgid ""
+"Those orcs who excel in the use of the battle axe are informally known to "
+"their brethren as Bladesmen. Disregarding all flair or style, Bladesman "
+"fight with simple and brutal strength, hacking directly at whatever stands "
+"before them. Any skill gained through battle only builds on what nature has "
+"already granted them."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Flanker, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Flanker.cfg:4
+msgid "Steppe Flanker"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Flanker, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Flanker.cfg:29
+msgid ""
+"Some goblins have discovered that the skills gained on the hunt can be put "
+"to use on the battlefield. While goblins are not overly welcome among the "
+"raiding parties, they are undeniably useful and so their presence is "
+"tolerated, if grudgingly."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Grafted_Era/units/steppe/Steppe_Flanker.cfg:45
+#: Grafted_Era/units/steppe/Steppe_Hunter.cfg:44
+#: Grafted_Era/units/steppe/Steppe_Striker.cfg:48
+msgid "harpoon"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Hunter, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Hunter.cfg:4
+msgid "Steppe Hunter"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Hunter, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Hunter.cfg:28
+msgid ""
+"The cruel life on the steppes tends to weed out the weak early on and harden "
+"those that remain. For this reason goblins are nowhere near as common on the "
+"steppe as they are elsewhere. Those that do survive often make themselves "
+"useful as scouts or scavengers. In hunting parties they specialise in the "
+"use of barbed harpoons to lame prey, allowing an easier kill for their "
+"larger orcish brethren."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Juggernaut, race=orc
+#: Grafted_Era/units/steppe/Steppe_Juggernaut.cfg:4
+msgid "Steppe Juggernaut"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Juggernaut, race=orc
+#: Grafted_Era/units/steppe/Steppe_Juggernaut.cfg:20
+msgid ""
+"Some of the Steppe Orcs aspiring to power realise that they actually have a "
+"certain aptitude for the charge. Abandoning the pursuit of leadership, these "
+"Juggernauts fling themselves on the enemy with utterly ferocious "
+"recklessness. In one legendary incident, likely made greater with each "
+"telling, an entire squad of elves scattered and ran at the sight of a single "
+"Juggernaut bearing down on them."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Khan, race=orc
+#: Grafted_Era/units/steppe/Steppe_Khan.cfg:4
+msgid "Steppe Khan"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Khan, race=orc
+#: Grafted_Era/units/steppe/Steppe_Khan.cfg:24
+msgid ""
+"The steppe chieftains are titled Khans, serving as both statesmen and "
+"generals. They have discovered the advantages of leading from behind, urging "
+"their fellows on before them. Before a battle it is customary for them to "
+"mingle with the soldiers, goading them on with threats, promises, insults or "
+"just primal bellows. Anything to spur them into a towering rage. Nearly "
+"everyone who has fought the orcs of the steppe has spoke of the unnerving "
+"roars of the orcish leaders.\n"
+"Despite this, Khans are more then ready to enter the fray against any "
+"especially audacious enemy that seeks to challenge them. Often, while "
+"retaining their flail, they focus on using the axe as they are considered "
+"too valuable an asset to risk in daredevil charges."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Massif, race=orc
+#: Grafted_Era/units/steppe/Steppe_Massif.cfg:4
+msgid "Steppe Massif"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Massif, race=orc
+#: Grafted_Era/units/steppe/Steppe_Massif.cfg:20
+msgid ""
+"Clad in crude armour with full-face helms and swinging weapons too heavy for "
+"many humans to lift, the hulking Massifs are a terrifying spectacle. They "
+"invariably continue their use of the battleaxe, with fearful results."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Outcast, race=orc
+#: Grafted_Era/units/steppe/Steppe_Outcast.cfg:4
+msgid "Steppe Outcast"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Outcast, race=orc
+#: Grafted_Era/units/steppe/Steppe_Outcast.cfg:20
+msgid ""
+"Not all initiates to the IceWind order are successful. Some lack the "
+"necessary patience, others are found wanting in mental endurance. However "
+"being excluded from the order cannot make them forget what they have "
+"learned.\n"
+"When the Outcasts first began performing supposedly forbidden magic on their "
+"own, the IceWind order raised an uproar in the tribal council. Under threat "
+"of exile the Outcasts were forced to cease their activities. But their order "
+"survived, albeit in a different form. Rather then mimic their counterparts, "
+"they developed a parallel sect that exists on the fringes of the tribe. The "
+"magics worked by the Outcasts are undeniably crude, but have great practical "
+"use. However they are denied the mystical union with their icy home, that is "
+"a right reserved for the Herders."
+msgstr ""
+
+#. [attack]: type=cold
+#: Grafted_Era/units/steppe/Steppe_Pariah.cfg:26
+#: Grafted_Era/units/steppe/Steppe_Outcast.cfg:26
+msgid "frigid touch"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Pariah, race=orc
+#: Grafted_Era/units/steppe/Steppe_Pariah.cfg:4
+msgid "Steppe Pariah"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Pariah, race=orc
+#: Grafted_Era/units/steppe/Steppe_Pariah.cfg:20
+msgid ""
+"Those rejects of the IceWind order who achieve veteran status in their art "
+"are looked upon as akin to minor criminals. However not even the Herders can "
+"deny that they are more then a little useful. Pariahs have little loyalty to "
+"the clan and rarely fight except for an incentive. When they do, they "
+"specialise in flushing foes from fortified positions or difficult terrain. "
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Rigid, race=orc
+#: Grafted_Era/units/steppe/Steppe_Rigid.cfg:4
+msgid "Steppe Rigid"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Rigid, race=orc
+#: Grafted_Era/units/steppe/Steppe_Rigid.cfg:19
+msgid ""
+"Aptly named, the Rigid are a near unbreakable foe. They often form fall-back "
+"positions behind the battle lines. Many a time the Rigid have been "
+"sacrificed, delaying the enemy while the main force recovers and regroups "
+"behind their unyielding wall of flesh, bone and iron. Their role is hardly a "
+"glorious one and usually comes to an end jammed into a choke point against "
+"hopeless odds."
+msgstr ""
+
+#. [attack]: type=impact
+#: Grafted_Era/units/steppe/Steppe_Stoic.cfg:33
+#: Grafted_Era/units/steppe/Steppe_Shieldbearer.cfg:32
+#: Grafted_Era/units/steppe/Steppe_Rigid.cfg:32
+msgid "shield bash"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Savage, race=orc
+#: Grafted_Era/units/steppe/Steppe_Savage.cfg:4
+msgid "Steppe Savage"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Savage, race=orc
+#: Grafted_Era/units/steppe/Steppe_Savage.cfg:20
+msgid ""
+"Unlike humans or elves, most orcs find a barbaric thrill in the chaos and "
+"blood of battle. Some so much so that the experience pushes their psyche, "
+"unstable and violent at the best of times, dangerously close to the brink. "
+"Teetering on the fine edge between sanity and burning instinct, they are "
+"feared nearly as much by their comrades as by their enemies. Hurling "
+"themselves bodily into the fray, they attack enemies solely with their fists "
+"and teeth. Savages cease to use armour at all, allowing them greater speed "
+"and ease of movement but sacrificing the protection it gives. Few have been "
+"known to survive beyond early adulthood."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Shieldbearer, race=orc
+#: Grafted_Era/units/steppe/Steppe_Shieldbearer.cfg:4
+msgid "Steppe Shieldbearer"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Shieldbearer, race=orc
+#: Grafted_Era/units/steppe/Steppe_Shieldbearer.cfg:19
+msgid ""
+"Some soldiers are given a special role, quite different from any of their "
+"comrades. Shieldbearers carry no real weapon at all. Their unique duty is to "
+"protect the wounded, patch up holes in the line and, if all looks to be "
+"lost, hold off the enemy long enough to cover their retreating army. It has "
+"often been said by the Steppe Orcs that while the Shieldbearers have never "
+"secured victory, they have numerous times prevented utter defeat."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Skewer, race=orc
+#: Grafted_Era/units/steppe/Steppe_Skewer.cfg:4
+msgid "Steppe Skewer"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Skewer, race=orc
+#: Grafted_Era/units/steppe/Steppe_Skewer.cfg:22
+msgid ""
+"While orcs may not be renowned for their intellectual capacity, it is well "
+"within their powers of thinking to realise that a longer spear will allow "
+"them to impale an enemy from greater distance. In addition, Skewers delight "
+"in crafting barbed heads for their spears, further increasing their grisly "
+"effectiveness.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Spearhead, race=orc
+#: Grafted_Era/units/steppe/Steppe_Spearhead.cfg:4
+msgid "Steppe Spearhead"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Spearhead, race=orc
+#: Grafted_Era/units/steppe/Steppe_Spearhead.cfg:19
+msgid ""
+"Any Steppe Orcs wishing to lead their comrades must first show their worth "
+"in battle. Spearheads lead the charge into the enemy, seeking to crash a "
+"hole in the battle lines of the foe. It is a dangerous profession to say the "
+"least. Their eagerness to impress frequently results in a sticky end. Their "
+"crude but often effective tactics are complemented by equally crude but "
+"effective weapons. A weight attached to a chain makes a perfectly "
+"serviceable flail."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Spearman, race=orc
+#: Grafted_Era/units/steppe/Steppe_Spearman.cfg:4
+msgid "Steppe Spearman"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Spearman, race=orc
+#: Grafted_Era/units/steppe/Steppe_Spearman.cfg:19
+msgid ""
+"The orcs of the steppe learnt early on that their axes were simply not "
+"suitable against all foes. In accordance with this, some warriors forgo "
+"further usage of the axe and take up short spears. While necessary, the "
+"change is often somewhat awkward."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Stoic, race=orc
+#: Grafted_Era/units/steppe/Steppe_Stoic.cfg:4
+msgid "Steppe Stoic"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Stoic, race=orc
+#: Grafted_Era/units/steppe/Steppe_Stoic.cfg:22
+msgid ""
+"The Stoic are embodiments of endurance, plain and simple. They are "
+"characterized by sheer stubbornness and refusal to go down even under the "
+"heaviest of blows. Time and again a foe has struck down a Stoic and thought "
+"him dead, only to see the hardy orc lift himself from among the corpses of "
+"the dead, raise his shield and reassume his position.\n"
+"\n"
+"Special Notes: Due to their lack of weaponry Stoic may not attack the enemy. "
+"When attacked however, they retaliate with heavy strikes with the front of "
+"their shields. "
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Striker, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Striker.cfg:4
+msgid "Steppe Striker"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Striker, race=goblin
+#: Grafted_Era/units/steppe/Steppe_Striker.cfg:29
+msgid ""
+"Rather then weaken foes for others to finish off, Strikers seek the killing "
+"blow themselves. However they do not possess the physique to survive long in "
+"a straight fight. Instead they dart around the main fracas, seeking to "
+"surprise distracted enemies."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Vanguard, race=orc
+#: Grafted_Era/units/steppe/Steppe_Vanguard.cfg:4
+msgid "Steppe Vanguard"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Vanguard, race=orc
+#: Grafted_Era/units/steppe/Steppe_Vanguard.cfg:22
+msgid ""
+"Having proven themselves in battle, Vanguards start to assert their "
+"authority others. Their experience is put to use on the battlefield, where "
+"they direct the actions of their comrades. Yet often in the fracas of battle "
+"these subtleties are disregarded and the Vanguards live up to their name, "
+"leading by example. They have however learnt some restraint, complementing "
+"their flails with a standard battleaxe similar to that used by steppe "
+"warriors."
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Warrior, race=orc
+#: Grafted_Era/units/steppe/Steppe_Warrior.cfg:4
+msgid "Steppe Warrior"
+msgstr ""
+
+#. [unit_type]: id=Graft_Steppe_Warrior, race=orc
+#: Grafted_Era/units/steppe/Steppe_Warrior.cfg:19
+msgid ""
+"The rank and file Steppe Orc soldier epitomizes the qualities of his clan. "
+"Hardened, resilient and, when necessary, desperately savage. However, while "
+"loyal to their clan, they have little restraint and are often hard to "
+"control. The inherent strength of their race and a harsh life of continuous "
+"conflict take the place of formal training. Not known for their finesse, "
+"Steppe Orcs fight with heavy two-handed battle axes."
+msgstr ""
+
+#. [unit_type]: id=Graft_icy_water_1, race=Graft_icy_water
+#: Grafted_Era/units/steppe/icy_water_1.cfg:4
+msgid "Zioghooshi"
+msgstr ""
+
+#. [unit_type]: id=Graft_icy_water_1, race=Graft_icy_water
+#: Grafted_Era/units/steppe/icy_water_1.cfg:19
+msgid ""
+"They live in waters beneath the ice sheet where most living things would "
+"find only death. They occasionaly trade with the steppe orcs, and even help "
+"them in battle, if sufficiently compensated. They aren't too swift."
+msgstr ""
