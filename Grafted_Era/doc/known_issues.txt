@@ -1,0 +1,12 @@
+known issues...
+
+---------
+ General
+---------
+- no mirror matches for non-Default factions
+- Random leader is listed twice in leader-selection menus
+
+---------------
+ Compatibility
+---------------
+- breaks when used with Random Map Picker add-on and selecting random faction or random leader

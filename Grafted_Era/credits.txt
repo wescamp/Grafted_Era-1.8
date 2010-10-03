@@ -103,8 +103,9 @@ Nightmares of Meloen
 	     krotop
 	Writing : 
 	--------------------
-	     Mist
-	     krotop
+	     Mist (faction backstory writing & unit descriptions)
+	     krotop (unit descriptions)
+	     FreeAsABeer (how-to-play guides)
 	Graphics : 
 	--------------------
 	     mystic X the unknown  (all current sprites)
@@ -117,12 +118,16 @@ Nightmares of Meloen
 	Coding :
 	--------------------
 	     Mist  (banding, arcane focus)
-	     krotop  (banding upkeep, terrain link, jinx
+	     krotop  (banding upkeep, terrain link, jinx)
 	     FreeAsABeer  (code rewrites, default only random faction)
+	Translations :
+	--------------------
+	     SteppenWolf (Polish)
+	     Feufochmar (French)
+	     Espreon	(Shavian)
 	Other :
 	--------------------
 	     Mist
-
 
 --------------------
 --------------------
