@@ -5,8 +5,10 @@ known issues...
 ---------
 - no mirror matches for non-Default factions
 - Random leader is listed twice in leader-selection menus
+- Demonic Pull's defense reduction isn't reflected in the attack window or in the combat calculations window
+- there is no visual clue to Demonic Pull being used, just a sound
 
 ---------------
  Compatibility
 ---------------
-- breaks when used with Random Map Picker add-on and selecting random faction or random leader
+- breaks when used with Random Map Picker add-on and then selecting random faction or random leader
