@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 13:15+0200\n"
+"POT-Creation-Date: 2011-02-21 15:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,13 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. [dummy]: id=Graft_weapon_special_demonic_pull
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:7 ./Grafted_Era/abilities/abilities_darklands.cfg:8
+msgid "demonic pull"
+msgstr ""
+
+#. [dummy]: id=Graft_weapon_special_demonic_pull
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:10 ./Grafted_Era/abilities/abilities_darklands.cfg:12
+msgid ""
+"Demonic pull :\n"
+"Calling upon otherwordly forces, the unit causes both the attacker and the defender to suffer a 25% defense penalty regardless of terrain for the duration of the engagement."
+msgstr ""
+
 #. [chance_to_hit]: id=Graft_demonic
-#: ./Grafted_Era/abilities/abilities_darklands.cfg:6
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:20
 msgid "demonic"
 msgstr ""
 
 #. [chance_to_hit]: id=Graft_demonic
-#: ./Grafted_Era/abilities/abilities_darklands.cfg:9
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:23
 msgid ""
 "Demonic:\n"
 "This attack is tied with the underworld forces, receiving 50% chance to hit regardless of the defensive ability of the unit being attacked.\n"
@@ -24,12 +36,12 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=fearsome
-#: ./Grafted_Era/abilities/abilities_darklands.cfg:22 ./Grafted_Era/abilities/abilities_darklands.cfg:23 ./Grafted_Era/abilities/abilities_darklands.cfg:51 ./Grafted_Era/abilities/abilities_darklands.cfg:52 ./Grafted_Era/abilities/abilities_darklands.cfg:88 ./Grafted_Era/abilities/abilities_darklands.cfg:89
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:36 ./Grafted_Era/abilities/abilities_darklands.cfg:37 ./Grafted_Era/abilities/abilities_darklands.cfg:65 ./Grafted_Era/abilities/abilities_darklands.cfg:66 ./Grafted_Era/abilities/abilities_darklands.cfg:102 ./Grafted_Era/abilities/abilities_darklands.cfg:103
 msgid "fearsome"
 msgstr ""
 
 #. [damage]: id=fearsome
-#: ./Grafted_Era/abilities/abilities_darklands.cfg:26 ./Grafted_Era/abilities/abilities_darklands.cfg:29 ./Grafted_Era/abilities/abilities_darklands.cfg:55 ./Grafted_Era/abilities/abilities_darklands.cfg:58 ./Grafted_Era/abilities/abilities_darklands.cfg:92 ./Grafted_Era/abilities/abilities_darklands.cfg:95
+#: ./Grafted_Era/abilities/abilities_darklands.cfg:40 ./Grafted_Era/abilities/abilities_darklands.cfg:43 ./Grafted_Era/abilities/abilities_darklands.cfg:69 ./Grafted_Era/abilities/abilities_darklands.cfg:72 ./Grafted_Era/abilities/abilities_darklands.cfg:106 ./Grafted_Era/abilities/abilities_darklands.cfg:109
 msgid ""
 "\n"
 "Fearsome:\n"
@@ -604,11 +616,6 @@ msgstr ""
 #. [unit_type]: id=Graft_Overlord, race=human
 #: ./Grafted_Era/units/darklands/Overlord.cfg:22
 msgid "These once lowly supervisors have proven their worth to their master with their loyalty and to a varying degree leadership skill. They keep to themselves, as could be expected for a harsh taskmaster, though many feel there is more to this reclusiveness. Some are greatly scared of them and will make that more sure not to disappoint their superiors."
-msgstr ""
-
-#. [attack]: description={STR_MACE}, type=impact
-#: ./Grafted_Era/units/darklands/Overlord.cfg:30 ./Grafted_Era/units/darklands/Warlock.cfg:31
-msgid "mace"
 msgstr ""
 
 #. [unit_type]: id=Graft_Overseer, race=human
