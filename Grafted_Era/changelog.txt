@@ -1,3 +1,7 @@
+version 0.2.2c
+	-sprite updates - Halflings: Alchemist, Master Alchemist, Magician, Pony, Cavalry, Charger
+	-sprite updates - Darklands: Wolf, Dread Wolf, Soldier, Forester
+	-minor fixes for unit names
 version 0.2.2b
 	-Darklands faction:
 		   	    Overseer line: receives the weapon special "demonic pull", lowering defense of both the defender and the attacker by 25% (10% min)
@@ -5,7 +9,7 @@ version 0.2.2b
 version 0.2.2
 	-Steppe faction: added water unit
 	-Darklands faction: added water unit (naga fighter)
-		   	    Overseer line ranged: receives an ability "demonic" sets chance to hit to 50%
+		   	 Overseer line: receives an ability "demonic" on ranged attack which sets chance to hit to 50%
 			    Henchman: cost decreased to 12 gold
 			    Archer: ranged damage increased to 7-2, cost to 13 gold
 			    Strongman line: changed from 1 to 2 strikes. Strongman: blade: 10, impact: 8, Giant: blade: 16, impact: 14
