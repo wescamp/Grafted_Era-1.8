@@ -1,0 +1,4 @@
+known bugs...
+
+- no mirror matches for non-Default factions
+- Random leader is listed twice in leader-selection menus

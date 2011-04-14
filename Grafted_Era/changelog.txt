@@ -1,3 +1,19 @@
+version 0.2.3
+	-Steppe faction: added Reindeer unit with 8mp
+			    IceWind Herder unit tree: 6mp
+			    Warrior unit tree: 6mp
+			    Shieldbearer experience 14 => 18 (8/10 => 10/13)
+			    Rigid experience 18 => 21 (10/13 => 12/15)
+			    
+	-Halflings faction: 
+			    Slinger: experience 34 (ingame 17/20 => 19/24), cost (8 => 9)
+			    Militia: experience 28 (ingame 13/16 => 15/20), removed militia advancement to armor
+			    Alchemist line: L0-L2 lose distract, gain additional ranged attack with stun special
+				Alchemist: cost (13 => 12)
+	-Darklands faction: 
+		   	    Henchman line: removed fearless trait
+	-new sprites: Henchman, Ambusher
+
 version 0.2.2c
 	-sprite updates - Halflings: Alchemist, Master Alchemist, Magician, Pony, Cavalry, Charger
 	-sprite updates - Darklands: Wolf, Dread Wolf, Soldier, Forester
@@ -6,6 +22,8 @@ version 0.2.2b
 	-Darklands faction:
 		   	    Overseer line: receives the weapon special "demonic pull", lowering defense of both the defender and the attacker by 25% (10% min)
 					 Overseer line: removed the "demonic" ability
+	-Nightmares faction: various updates from the NoM project 
+
 version 0.2.2
 	-Steppe faction: added water unit
 	-Darklands faction: added water unit (naga fighter)
