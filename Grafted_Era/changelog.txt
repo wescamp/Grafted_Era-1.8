@@ -1,9 +1,19 @@
+version 0.2.3b
+	-sprite updates - Halflings: Slinger, Slingster, Sharpshooter, Militia, Expeller, Stouthearted, Net, Catcher, Stopper, Stalker, Slayer, Reeve, Thane, General
+	-sprite updates - Steppe: Reindeer
+	-sprite updates - Nightmares: Rash One
+
+	-Nightmares faction : updates : apply the NoM changes to angry one & raging one tied to the removal of berserk from them, including lowering experience requirement for the L1
+
+	-new attack icons: ram
+	-minor tweaks
+
 version 0.2.3
 	-Steppe faction: added Reindeer unit with 8mp
 			    IceWind Herder unit tree: 6mp
 			    Warrior unit tree: 6mp
-			    Shieldbearer experience 14 => 18 (8/10 => 10/13)
-			    Rigid experience 18 => 21 (10/13 => 12/15)
+			    Shieldbearer experience 14 => 18 (ingame 8/10 => 10/13)
+			    Rigid experience 18 => 21 (ingame 10/13 => 12/15)
 			    
 	-Halflings faction: 
 			    Slinger: experience 34 (ingame 17/20 => 19/24), cost (8 => 9)
