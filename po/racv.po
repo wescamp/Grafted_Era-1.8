@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-15 12:55+0200\n"
+"POT-Creation-Date: 2011-05-23 20:00+0200\n"
 "PO-Revision-Date: 2010-10-03 13:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1286,15 +1286,7 @@ msgid "Unhatched"
 msgstr ""
 
 #. [unit_type]: id=Graft_Unhatched, race=aberration
-#. [unit_type]: id=Graft_Reckless_One, race=aberration
-#. [unit_type]: id=Graft_Raging_One, race=aberration
-#. [unit_type]: id=Graft_Angry_One, race=aberration
-#. [unit_type]: id=Graft_Rash_One, race=aberration
 #: Grafted_Era/units/nightmares/ab_un_01_unhatched_.cfg:21
-#: Grafted_Era/units/nightmares/ab_un_03b_reckless_one.cfg:21
-#: Grafted_Era/units/nightmares/ab_un_03_raging_one.cfg:21
-#: Grafted_Era/units/nightmares/ab_un_02_angry_one.cfg:21
-#: Grafted_Era/units/nightmares/ab_un_02b_rash_one.cfg:21
 msgid ""
 "These hideous monsters came from the very first fear of Meloen : to mother a "
 "physically or mentally ill child. Not quite formed yet, the unhatched partly "
@@ -1305,6 +1297,21 @@ msgstr ""
 #. [unit_type]: id=Graft_Angry_One, race=aberration
 #: Grafted_Era/units/nightmares/ab_un_02_angry_one.cfg:6
 msgid "Angry One"
+msgstr ""
+
+#. [unit_type]: id=Graft_Reckless_One, race=aberration
+#. [unit_type]: id=Graft_Raging_One, race=aberration
+#. [unit_type]: id=Graft_Angry_One, race=aberration
+#. [unit_type]: id=Graft_Rash_One, race=aberration
+#: Grafted_Era/units/nightmares/ab_un_03b_reckless_one.cfg:21
+#: Grafted_Era/units/nightmares/ab_un_03_raging_one.cfg:20
+#: Grafted_Era/units/nightmares/ab_un_02_angry_one.cfg:20
+#: Grafted_Era/units/nightmares/ab_un_02b_rash_one.cfg:21
+msgid ""
+"These hideous monsters came from the very first fear of Meloen: to mother a "
+"physically or mentally ill child. Not quite formed yet, the unhatched partly "
+"breaks the shell with its powerful legs, then its naturally agressive "
+"instinct guide it to charge and complete its hatch onto foes."
 msgstr ""
 
 #. [unit_type]: id=Graft_Rash_One, race=aberration
